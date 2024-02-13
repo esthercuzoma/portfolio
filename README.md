@@ -1,7 +1,6 @@
 # Esther C Uzoma
 
-!([me](https://github.com/esthercuzoma/portfolio/blob/8d39a9eeee0d69003b868846a797bb59c3c6f6bf/IMG_2303.JPG
-)
+!([me](https://github.com/esthercuzoma/portfolio/blob/8d39a9eeee0d69003b868846a797bb59c3c6f6bf/IMG_2303.JPG)
 
 
 ### Education
