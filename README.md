@@ -2,15 +2,23 @@
 
 ![IMG_2303](https://github.com/esthercuzoma/portfolio/assets/143554784/8d5d778d-4681-47d8-9cbc-4174a9aac4de)
 
+
 ### Education
+
 
 **The University of Texas at Austin**
 
-Expected May 2025 • GPA: 3.88 B.F.A. in Design,
-)
+B.A. in Design,
+ 
+Expected May 2025 • GPA: 3.88
+
 Minor in Informatics (HCI/UX/Social)
 
 Elements of Computing Certificate
+
+
+### Experience
+
 
 **Gazelle Ecosolutions » UI/UX Designer** 
 
@@ -54,7 +62,9 @@ various acclaimed guests.
 • Working with Events and Entertainment to plan and organize events
 across campus.
 
+
 ### Projects
+
 
 **Travis County District Attorney’s Office » Research Partner**
 
@@ -89,5 +99,35 @@ meetings
 
 ### Skills
 
-### Experience
 
+Product Design
+Visual Design
+Graphic Design
+UI/UX Design
+Product Thinking
+Motion Design
+Wireframing
+Prototyping
+User Research
+Interaction Design
+HTML/CSS
+Industrial Design
+3D Design
+
+
+### Tools
+
+
+Adobe Photoshop
+Adobe Illustrator
+Adobe After Effects
+Adobe InDesign
+Adobe XD
+Figma
+Framer
+Java
+Glitch
+JavaScript
+Python
+Rhino
+Microsoft Office
