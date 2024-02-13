@@ -1,7 +1,6 @@
 # Esther C Uzoma
 
-!([me}(https://github.com/esthercuzoma/portfolio/blob/8d39a9eeee0d69003b868846a797bb59c3c6f6bf/IMG_2303.JPG)
-
+![IMG_2303](https://github.com/esthercuzoma/portfolio/assets/143554784/8d5d778d-4681-47d8-9cbc-4174a9aac4de)
 
 ### Education
 
@@ -12,7 +11,6 @@ Expected May 2025 • GPA: 3.88 B.F.A. in Design,
 Minor in Informatics (HCI/UX/Social)
 
 Elements of Computing Certificate
-
 
 **Gazelle Ecosolutions » UI/UX Designer** 
 
